@@ -47,7 +47,7 @@ def larger_than_russia
           countries
         WHERE
           name='Russia'
-    )
+    );
   SQL
 end
 
